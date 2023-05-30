@@ -2,7 +2,7 @@
 
 ## A version of Wordle - A React App
 
-### Created with the help of Net Ninja tutorial `https://www.youtube.com/playlist?list=PL4cUxeGkcC9gXdVXVJBmHpSI7zCEcjLUX` - `https://github.com/iamshaunjp/React-Wordle`
+### Created with the help of Net Ninja tutorial https://www.youtube.com/playlist?list=PL4cUxeGkcC9gXdVXVJBmHpSI7zCEcjLUX - https://github.com/iamshaunjp/React-Wordle
 
 #### Starting page
 ![Alt text](/src/assets/start.png "Start page")
